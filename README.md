@@ -1,0 +1,2 @@
+# landingPage
+Тестирую nuxt
